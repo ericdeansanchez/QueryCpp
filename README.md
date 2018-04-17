@@ -3,7 +3,7 @@
 While honing my cpp skills, I came across some boiler plate within [C++ Primer (5th Edition)](https://www.amazon.com/Primer-5th-Stanley-B-Lippman/dp/0321714113/ref=sr_1_1?ie=UTF8&qid=1523940885&sr=8-1&keywords=c%2B%2B+primer) that wasn't entirely _fleshed out_. There were also a couple "bonus" problems this text proposes one solves; the solutions are contained here. 
 
 The code takes a file as input, performs a query for a given word or words, returns the number of times the queried-for string
-is found and can display the search results (if any).
+appears within the file and can display the search results (if any).
 
 | Class | Description |
 |---|---|
