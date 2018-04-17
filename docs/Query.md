@@ -1,4 +1,4 @@
-# Synopsis of Query
+# Synopsis of QueryCpp
 
 
 | Class | Description |
